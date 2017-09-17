@@ -4,6 +4,7 @@
 *.shp
 *.shx
 *.lnk
+config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
